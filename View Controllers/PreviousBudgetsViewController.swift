@@ -1,19 +1,20 @@
 //
-//  ViewController.swift
+//  BudgetSummaryViewController.swift
 //  BudgetTracker
 //
-//  Created by DeQuan Douglas on 8/28/21.
+//  Created by DeQuan Douglas on 9/2/21.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class PreviousBudgetsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
+    
 
 
 }
-

@@ -8,7 +8,7 @@
 import Foundation
 import CoreData
 
-struct previousMonthsResponse {
+struct PreviousMonthsResponse {
     let totalSpendingArray: Double
     let purchasesArray: [Double]
     let month: String

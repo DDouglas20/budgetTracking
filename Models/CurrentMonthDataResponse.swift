@@ -6,3 +6,10 @@
 //
 
 import Foundation
+import CoreData
+
+struct currentMonthResponse {
+    let totalBudgetArray: [Double]
+    let purchasesArray: [Double]
+    let budget: Int16
+}
